@@ -1,4 +1,4 @@
-This is the GitHub repository used for creating this website based on a simple academic website. [The tutorial can be found here.](http://marisacarlos.com/pages/create-simple-academic-website)
+This is the GitHub repository used for creating this website based on a simple academic website template. [The tutorial can be found here.](http://marisacarlos.com/pages/create-simple-academic-website)
 
 ---
 
