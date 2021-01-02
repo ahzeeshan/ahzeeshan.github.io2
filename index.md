@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Zeeshan Ahmad
+description: Zeeshan Ahmad's website
+keywords: Academic, website
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I am a postdoctoral researcher at the Pritzker School of Molecular Engineering, University of Chicago working with Prof. Giulia Galli. My email address is azeeshan at uchicago dot edu. I am a recent PhD from the Department of Mechanical Engineering, Carnegie Mellon University advised by Venkat Viswanathan. My research is in the areas of computational materials science and condensed matter physics with applications to energy storage. I graduated from Indian Institute of Technology Delhi in May 2015 with a B.Tech. in Mechanical Engineering, winning the institute silver medal.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -14,18 +14,18 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Zeeshan Ahmad<br/>
+            Email: azeeshan@uchicago.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Zeeshan Ahmad" alt="Zeeshan Ahmad"/></a>
         </div>
     </div>
 </div>
@@ -34,8 +34,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/ahzeeshan">GitHub</a></li>
+          <li><a href="https://twitter.com/zahmad01">Twitter</a></li>
       </ul>
   </div>
 </div>
