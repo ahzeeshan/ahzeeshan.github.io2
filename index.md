@@ -5,7 +5,7 @@ description: Zeeshan Ahmad's website
 keywords: Academic, website
 ---
 
-I am a postdoctoral researcher at the Pritzker School of Molecular Engineering, University of Chicago working with Prof. Giulia Galli. I am a recent PhD from the Department of Mechanical Engineering, Carnegie Mellon University advised by Venkat Viswanathan. My research is in the areas of computational materials science and condensed matter physics with applications to energy storage and conversion. I graduated from Indian Institute of Technology Delhi in 2015 with a B.Tech. in Mechanical Engineering, winning the institute silver medal.
+I am a postdoctoral scholar at the Pritzker School of Molecular Engineering, University of Chicago working with Prof. Giulia Galli. I completed my PhD in 2020 from the Department of Mechanical Engineering, Carnegie Mellon University advised by Venkat Viswanathan. My research is in the areas of computational materials science and condensed matter physics with applications to energy storage and conversion. Before that, I graduated from Indian Institute of Technology Delhi in 2015 with a B.Tech. in Mechanical Engineering, winning the institute silver medal.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
